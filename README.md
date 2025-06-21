@@ -60,5 +60,3 @@ El archivo principal de este ejercicio es `inmuebles_cdmx.ipynb`, desarrollado y
 Este proyecto es de uso educativo y está bajo la licencia MIT.
 
 ---
-
-¡Explora, experimenta y aprende análisis de datos con Pandas en un entorno práctico y realista!
